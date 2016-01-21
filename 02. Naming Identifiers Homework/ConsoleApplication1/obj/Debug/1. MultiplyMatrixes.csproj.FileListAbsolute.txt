@@ -1,0 +1,6 @@
+D:\OneDrive\University\SoftUni Fundamentals\High Quality Code\02. Naming-Identifiers-Homework\Naming Identifiers Homework\ConsoleApplication1\bin\Debug\MultiplyMatrixes.exe.config
+D:\OneDrive\University\SoftUni Fundamentals\High Quality Code\02. Naming-Identifiers-Homework\Naming Identifiers Homework\ConsoleApplication1\bin\Debug\MultiplyMatrixes.exe
+D:\OneDrive\University\SoftUni Fundamentals\High Quality Code\02. Naming-Identifiers-Homework\Naming Identifiers Homework\ConsoleApplication1\bin\Debug\MultiplyMatrixes.pdb
+D:\OneDrive\University\SoftUni Fundamentals\High Quality Code\02. Naming-Identifiers-Homework\Naming Identifiers Homework\ConsoleApplication1\obj\Debug\1. MultiplyMatrixes.csprojResolveAssemblyReference.cache
+D:\OneDrive\University\SoftUni Fundamentals\High Quality Code\02. Naming-Identifiers-Homework\Naming Identifiers Homework\ConsoleApplication1\obj\Debug\MultiplyMatrixes.exe
+D:\OneDrive\University\SoftUni Fundamentals\High Quality Code\02. Naming-Identifiers-Homework\Naming Identifiers Homework\ConsoleApplication1\obj\Debug\MultiplyMatrixes.pdb

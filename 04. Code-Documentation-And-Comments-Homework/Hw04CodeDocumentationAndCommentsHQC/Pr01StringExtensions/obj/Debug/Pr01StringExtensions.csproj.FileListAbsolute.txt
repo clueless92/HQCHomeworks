@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\Hw04CodeDocumentationAndCommentsHQC\Pr01StringExtensions\bin\Debug\Pr01StringExtensions.exe.config
+D:\OneDrive\Workspace\C#\Hw04CodeDocumentationAndCommentsHQC\Pr01StringExtensions\bin\Debug\Pr01StringExtensions.exe
+D:\OneDrive\Workspace\C#\Hw04CodeDocumentationAndCommentsHQC\Pr01StringExtensions\bin\Debug\Pr01StringExtensions.pdb
+D:\OneDrive\Workspace\C#\Hw04CodeDocumentationAndCommentsHQC\Pr01StringExtensions\obj\Debug\Pr01StringExtensions.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\Hw04CodeDocumentationAndCommentsHQC\Pr01StringExtensions\obj\Debug\Pr01StringExtensions.exe
+D:\OneDrive\Workspace\C#\Hw04CodeDocumentationAndCommentsHQC\Pr01StringExtensions\obj\Debug\Pr01StringExtensions.pdb

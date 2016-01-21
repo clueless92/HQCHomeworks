@@ -1,0 +1,6 @@
+D:\OneDrive\University\SoftUni Fundamentals\High Quality Code\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\bin\Debug\Orders.exe.config
+D:\OneDrive\University\SoftUni Fundamentals\High Quality Code\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\bin\Debug\Orders.exe
+D:\OneDrive\University\SoftUni Fundamentals\High Quality Code\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\bin\Debug\Orders.pdb
+D:\OneDrive\University\SoftUni Fundamentals\High Quality Code\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\obj\Debug\2. Orders.csprojResolveAssemblyReference.cache
+D:\OneDrive\University\SoftUni Fundamentals\High Quality Code\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\obj\Debug\Orders.exe
+D:\OneDrive\University\SoftUni Fundamentals\High Quality Code\02. Naming-Identifiers-Homework\Naming Identifiers Homework\Orders\obj\Debug\Orders.pdb

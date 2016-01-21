@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\Hw03CodeFormatting\BigSum\bin\Debug\BigSum.exe.config
+D:\OneDrive\Workspace\C#\Hw03CodeFormatting\BigSum\bin\Debug\BigSum.exe
+D:\OneDrive\Workspace\C#\Hw03CodeFormatting\BigSum\bin\Debug\BigSum.pdb
+D:\OneDrive\Workspace\C#\Hw03CodeFormatting\BigSum\obj\Debug\Pr02ReformatYourOwnCode.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\Hw03CodeFormatting\BigSum\obj\Debug\BigSum.exe
+D:\OneDrive\Workspace\C#\Hw03CodeFormatting\BigSum\obj\Debug\BigSum.pdb
