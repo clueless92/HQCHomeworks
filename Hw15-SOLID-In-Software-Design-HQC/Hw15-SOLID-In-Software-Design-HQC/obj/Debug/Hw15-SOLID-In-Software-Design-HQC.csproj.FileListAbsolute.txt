@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\Hw15-SOLID-In-Software-Design-HQC\Hw15-SOLID-In-Software-Design-HQC\bin\Debug\Hw15-SOLID-In-Software-Design-HQC.dll.config
+D:\OneDrive\Workspace\C#\Hw15-SOLID-In-Software-Design-HQC\Hw15-SOLID-In-Software-Design-HQC\bin\Debug\Hw15-SOLID-In-Software-Design-HQC.dll
+D:\OneDrive\Workspace\C#\Hw15-SOLID-In-Software-Design-HQC\Hw15-SOLID-In-Software-Design-HQC\bin\Debug\Hw15-SOLID-In-Software-Design-HQC.pdb
+D:\OneDrive\Workspace\C#\Hw15-SOLID-In-Software-Design-HQC\Hw15-SOLID-In-Software-Design-HQC\obj\Debug\Hw15-SOLID-In-Software-Design-HQC.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\Hw15-SOLID-In-Software-Design-HQC\Hw15-SOLID-In-Software-Design-HQC\obj\Debug\Hw15-SOLID-In-Software-Design-HQC.dll
+D:\OneDrive\Workspace\C#\Hw15-SOLID-In-Software-Design-HQC\Hw15-SOLID-In-Software-Design-HQC\obj\Debug\Hw15-SOLID-In-Software-Design-HQC.pdb

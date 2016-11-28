@@ -1,0 +1,8 @@
+D:\OneDrive\Workspace\C#\Hw15-SOLID-In-Software-Design-HQC\LoggerTests\bin\Debug\LoggerTests.exe.config
+D:\OneDrive\Workspace\C#\Hw15-SOLID-In-Software-Design-HQC\LoggerTests\bin\Debug\LoggerTests.exe
+D:\OneDrive\Workspace\C#\Hw15-SOLID-In-Software-Design-HQC\LoggerTests\bin\Debug\LoggerTests.pdb
+D:\OneDrive\Workspace\C#\Hw15-SOLID-In-Software-Design-HQC\LoggerTests\bin\Debug\Hw15-SOLID-In-Software-Design-HQC.dll
+D:\OneDrive\Workspace\C#\Hw15-SOLID-In-Software-Design-HQC\LoggerTests\bin\Debug\Hw15-SOLID-In-Software-Design-HQC.pdb
+D:\OneDrive\Workspace\C#\Hw15-SOLID-In-Software-Design-HQC\LoggerTests\obj\Debug\LoggerTests.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\Hw15-SOLID-In-Software-Design-HQC\LoggerTests\obj\Debug\LoggerTests.exe
+D:\OneDrive\Workspace\C#\Hw15-SOLID-In-Software-Design-HQC\LoggerTests\obj\Debug\LoggerTests.pdb

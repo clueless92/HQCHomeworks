@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\Hw15-SOLID-In-Software-Design-HQC\Hw15-SOLID-In-Software-Design-HQC\bin\Debug\Pr01Logger.dll.config
+D:\OneDrive\Workspace\C#\Hw15-SOLID-In-Software-Design-HQC\Hw15-SOLID-In-Software-Design-HQC\bin\Debug\Pr01Logger.dll
+D:\OneDrive\Workspace\C#\Hw15-SOLID-In-Software-Design-HQC\Hw15-SOLID-In-Software-Design-HQC\bin\Debug\Pr01Logger.pdb
+D:\OneDrive\Workspace\C#\Hw15-SOLID-In-Software-Design-HQC\Hw15-SOLID-In-Software-Design-HQC\obj\Debug\Pr01Logger.dll
+D:\OneDrive\Workspace\C#\Hw15-SOLID-In-Software-Design-HQC\Hw15-SOLID-In-Software-Design-HQC\obj\Debug\Pr01Logger.pdb
+D:\OneDrive\Workspace\C#\Hw15-SOLID-In-Software-Design-HQC\Hw15-SOLID-In-Software-Design-HQC\obj\Debug\Pr01Logger.csprojResolveAssemblyReference.cache

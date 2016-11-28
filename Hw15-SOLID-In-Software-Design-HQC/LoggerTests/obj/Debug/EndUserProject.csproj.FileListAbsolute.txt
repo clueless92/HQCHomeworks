@@ -1,0 +1,8 @@
+D:\OneDrive\Workspace\C#\Hw15-SOLID-In-Software-Design-HQC\LoggerTests\bin\Debug\EndUserProject.exe.config
+D:\OneDrive\Workspace\C#\Hw15-SOLID-In-Software-Design-HQC\LoggerTests\bin\Debug\EndUserProject.exe
+D:\OneDrive\Workspace\C#\Hw15-SOLID-In-Software-Design-HQC\LoggerTests\bin\Debug\EndUserProject.pdb
+D:\OneDrive\Workspace\C#\Hw15-SOLID-In-Software-Design-HQC\LoggerTests\bin\Debug\Pr01Logger.dll
+D:\OneDrive\Workspace\C#\Hw15-SOLID-In-Software-Design-HQC\LoggerTests\bin\Debug\Pr01Logger.pdb
+D:\OneDrive\Workspace\C#\Hw15-SOLID-In-Software-Design-HQC\LoggerTests\obj\Debug\EndUserProject.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\Hw15-SOLID-In-Software-Design-HQC\LoggerTests\obj\Debug\EndUserProject.exe
+D:\OneDrive\Workspace\C#\Hw15-SOLID-In-Software-Design-HQC\LoggerTests\obj\Debug\EndUserProject.pdb
